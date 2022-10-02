@@ -5,7 +5,7 @@
 from telebot import TeleBot, types
 import json
 
-TOKEN = '5412580886:AAFgua5_967-yIQEsA8HU0YBY-kDVIXumXU'
+TOKEN = 'Вставьте_свой_токен'
 
 bot = TeleBot(TOKEN) 
 
